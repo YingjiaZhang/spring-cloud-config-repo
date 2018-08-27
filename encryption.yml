@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: dbuser
+    password: '{chiper}842d21cb3b28d1bc58678cbf19f44fb43011fc5b7432542164187c77c4c1d45e'
+
+#in *.properties
+#spring.datasource.username=dbuser
+#spirng.datasource.passowrd={chiper}842d21cb3b28d1bc58678cbf19f44fb43011fc5b7432542164187c77c4c1d45e
